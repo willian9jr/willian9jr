@@ -1,5 +1,5 @@
 ## Olá! Me chamo Willian Junior, e é um prazer ter você por aqui.👋
-<div align="center" display = "flex">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/willian9jr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willian9jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willian9jr&layout=compact&langs_count=7&theme=tokyonight">
