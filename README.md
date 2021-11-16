@@ -1,4 +1,4 @@
-## Olá! Me chamo Willian Junior, e é um prazer ter você por aqui! 🤙 
+## Olá! Me chamo Willian Junior, e é um prazer ter você por aqui! 👋
 
 
 
